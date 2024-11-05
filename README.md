@@ -19,9 +19,9 @@ Com o aumento da dependência de conexões estáveis, é fundamental que cliente
 
 ## 🚀 Funcionalidades
 
-- 🏙️ **Dashboard por Bairro**: Informações rápidas sobre bairros como Centro, Madalenas, Cruzeiro, Estação e Primavera.
+- 🏙️ **Dashboard por Bairro**: Informações rápidas sobre bairros da região atendida por seu ISP.
 - ⏱️ **Relatórios em Tempo Real**: Atualizações imediatas com gráficos exibindo o número de reclamações e o tipo de problema.
-- 💻 **Interface Intuitiva**: Design moderno e responsivo utilizando Vite, Tailwind CSS, e o tema Rose do ShadCN.
+- 💻 **Interface Intuitiva**: Design moderno e responsivo.
 
 ---
 
@@ -29,7 +29,7 @@ Com o aumento da dependência de conexões estáveis, é fundamental que cliente
 
 - ⚡ **Framework**: [Vite](https://vitejs.dev/)
 - 🎨 **Estilização**: [Tailwind CSS](https://tailwindcss.com/)
-- 🌹 **Componentes**: Tema Rose do [ShadCN](https://shadcn.dev/)
+- 🌹 **Componentes**: Tema do [ShadCN](https://shadcn.dev/)
 - ▲ **Deploy**: [Vercel](https://vercel.com/)
 
 ---
